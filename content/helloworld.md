@@ -1,5 +1,6 @@
 ---
-title: 1/29/2026 - Hello, world!
+title: Hello, world!
+date: 1/29/2026
 ---
 
 Hi! I'm Adam. 
